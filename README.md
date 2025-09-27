@@ -73,7 +73,7 @@ Contributions are welcome!
 
 💡 Created by **Matin Shaikh**
 
-* 📧 Email: *[your-email@example.com](shaikhmatin202@gmail.com)*
+* 📧 Email: *[shaikhmatin202@gmail.com](shaikhmatin202@gmail.com)*
 * 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/matin-shaikh-b6542037b/)
 * 🐙 GitHub: [Your GitHub Profile](https://github.com/shaikhmatin202-dataanalyst)
 
